@@ -1,3 +1,2 @@
 # passwordGenerator
-repo code for password-Generator
-print("raghu")
+print("Raghu")
